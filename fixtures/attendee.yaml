@@ -1,0 +1,5 @@
+App\Entity\Attendee:
+    attendee_1:
+        __construct: [ '02d47053-4034-4818-97d1-299c4cd7168d', 'Jonas', 'G', 'foo@bar.com' ]
+    attendee_2:
+        __construct: [ 'e78e2b7a-5744-11ec-bf63-0242ac130002', 'Marc', 'B', 'bar@foo.com' ]
